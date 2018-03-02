@@ -1,0 +1,16 @@
+
+module memdr(
+  input clk,
+  input [31:0] din,
+  output [31:0] dout
+  );
+  
+  reg[31:0] memdata_reg;
+  
+  always@(posedge clk)
+  begin
+    memdata_reg = din;
+  end
+  
+  assign dout = memdata_reg;
+endmodule

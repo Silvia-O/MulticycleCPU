@@ -1,0 +1,1755 @@
+------currentPC: 0x00003000   instruction: 0xxxxxxxxx------
+       **state:           0**
+PCSource: xx  PCWrite: x  PCWriteCond: x
+MemWrite: x  IRWrite: x   RegDst: xx   RegWrite: x   MemtoReg: xx
+ALUSrcA: xx   ALUSrcB: xx   ALUOp: xxxxx   EXTOp: xx
+------currentPC: 0x00003004   instruction: 0x34021234------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003004   instruction: 0x34021234------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003004   instruction: 0x34021234------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00110   EXTOp: 00
+------currentPC: 0x00003004   instruction: 0x34021234------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003008   instruction: 0x3c039876------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003008   instruction: 0x3c039876------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003008   instruction: 0x3c039876------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 01011   EXTOp: 00
+------currentPC: 0x00003008   instruction: 0x3c039876------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000300c   instruction: 0x20443456------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000300c   instruction: 0x20443456------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000300c   instruction: 0x20443456------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000300c   instruction: 0x20443456------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003010   instruction: 0x2465fc00------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003010   instruction: 0x2465fc00------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003010   instruction: 0x2465fc00------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 01
+------currentPC: 0x00003010   instruction: 0x2465fc00------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003014   instruction: 0x3846abcd------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003014   instruction: 0x3846abcd------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003014   instruction: 0x3846abcd------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00111   EXTOp: 00
+------currentPC: 0x00003014   instruction: 0x3846abcd------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003018   instruction: 0x2c850034------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003018   instruction: 0x2c850034------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003018   instruction: 0x2c850034------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 01010   EXTOp: 00
+------currentPC: 0x00003018   instruction: 0x2c850034------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000301c   instruction: 0x2c45ffff------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000301c   instruction: 0x2c45ffff------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000301c   instruction: 0x2c45ffff------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 01010   EXTOp: 00
+------currentPC: 0x0000301c   instruction: 0x2c45ffff------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003020   instruction: 0x30c77654------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003020   instruction: 0x30c77654------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003020   instruction: 0x30c77654------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00101   EXTOp: 00
+------currentPC: 0x00003020   instruction: 0x30c77654------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003024   instruction: 0x28681234------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003024   instruction: 0x28681234------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003024   instruction: 0x28681234------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 01001   EXTOp: 00
+------currentPC: 0x00003024   instruction: 0x28681234------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003028   instruction: 0x00624023------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003028   instruction: 0x00624023------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003028   instruction: 0x00624023------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 00   ALUOp: 00001   EXTOp: 00
+------currentPC: 0x00003028   instruction: 0x00624023------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 01   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000302c   instruction: 0x01034826------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000302c   instruction: 0x01034826------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000302c   instruction: 0x01034826------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 00   ALUOp: 00111   EXTOp: 00
+------currentPC: 0x0000302c   instruction: 0x01034826------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 01   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003030   instruction: 0x01285021------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003030   instruction: 0x01285021------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003030   instruction: 0x01285021------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 00   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003030   instruction: 0x01285021------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 01   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003034   instruction: 0x01425020------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003034   instruction: 0x01425020------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003034   instruction: 0x01425020------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 00   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003034   instruction: 0x01425020------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 01   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003038   instruction: 0x01435822------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003038   instruction: 0x01435822------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003038   instruction: 0x01435822------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 00   ALUOp: 00001   EXTOp: 00
+------currentPC: 0x00003038   instruction: 0x01435822------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 01   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000303c   instruction: 0x016a6027------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000303c   instruction: 0x016a6027------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000303c   instruction: 0x016a6027------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 00   ALUOp: 01000   EXTOp: 00
+------currentPC: 0x0000303c   instruction: 0x016a6027------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 01   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003040   instruction: 0x016a6825------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003040   instruction: 0x016a6825------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003040   instruction: 0x016a6825------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 00   ALUOp: 00110   EXTOp: 00
+------currentPC: 0x00003040   instruction: 0x016a6825------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 01   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003044   instruction: 0x016a7024------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003044   instruction: 0x016a7024------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003044   instruction: 0x016a7024------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 00   ALUOp: 00101   EXTOp: 00
+------currentPC: 0x00003044   instruction: 0x016a7024------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 01   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003048   instruction: 0x01ac982a------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003048   instruction: 0x01ac982a------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003048   instruction: 0x01ac982a------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 00   ALUOp: 01001   EXTOp: 00
+------currentPC: 0x00003048   instruction: 0x01ac982a------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 01   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000304c   instruction: 0x01aca02b------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000304c   instruction: 0x01aca02b------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000304c   instruction: 0x01aca02b------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 00   ALUOp: 01010   EXTOp: 00
+------currentPC: 0x0000304c   instruction: 0x01aca02b------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 01   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003050   instruction: 0x000840c0------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003050   instruction: 0x000840c0------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003050   instruction: 0x000840c0------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 10   ALUSrcB: 00   ALUOp: 00010   EXTOp: 00
+------currentPC: 0x00003050   instruction: 0x000840c0------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 01   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003054   instruction: 0x00084c02------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003054   instruction: 0x00084c02------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003054   instruction: 0x00084c02------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 10   ALUSrcB: 00   ALUOp: 00011   EXTOp: 00
+------currentPC: 0x00003054   instruction: 0x00084c02------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 01   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003058   instruction: 0x00085743------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003058   instruction: 0x00085743------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003058   instruction: 0x00085743------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 10   ALUSrcB: 00   ALUOp: 00100   EXTOp: 00
+------currentPC: 0x00003058   instruction: 0x00085743------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 01   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000305c   instruction: 0x240b3410------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000305c   instruction: 0x240b3410------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000305c   instruction: 0x240b3410------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 01
+------currentPC: 0x0000305c   instruction: 0x240b3410------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003060   instruction: 0x01686004------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003060   instruction: 0x01686004------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003060   instruction: 0x01686004------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 00   ALUOp: 00010   EXTOp: 00
+------currentPC: 0x00003060   instruction: 0x01686004------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 01   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003064   instruction: 0x01686806------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003064   instruction: 0x01686806------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003064   instruction: 0x01686806------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 00   ALUOp: 00011   EXTOp: 00
+------currentPC: 0x00003064   instruction: 0x01686806------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 01   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003068   instruction: 0x01687007------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003068   instruction: 0x01687007------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003068   instruction: 0x01687007------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 00   ALUOp: 00100   EXTOp: 00
+------currentPC: 0x00003068   instruction: 0x01687007------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 01   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000306c   instruction: 0x00432021------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000306c   instruction: 0x00432021------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000306c   instruction: 0x00432021------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 00   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000306c   instruction: 0x00432021------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 01   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003070   instruction: 0x201d0000------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003070   instruction: 0x201d0000------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003070   instruction: 0x201d0000------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003070   instruction: 0x201d0000------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003074   instruction: 0xafa40000------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003074   instruction: 0xafa40000------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003074   instruction: 0xafa40000------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003074   instruction: 0xafa40000------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 1  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003078   instruction: 0xafa40004------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003078   instruction: 0xafa40004------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003078   instruction: 0xafa40004------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003078   instruction: 0xafa40004------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 1  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000307c   instruction: 0xafa40008------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000307c   instruction: 0xafa40008------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000307c   instruction: 0xafa40008------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000307c   instruction: 0xafa40008------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 1  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003080   instruction: 0xa7a80004------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003080   instruction: 0xa7a80004------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003080   instruction: 0xa7a80004------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003080   instruction: 0xa7a80004------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 1  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003084   instruction: 0xa7a9000a------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003084   instruction: 0xa7a9000a------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003084   instruction: 0xa7a9000a------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003084   instruction: 0xa7a9000a------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 1  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003088   instruction: 0xa3aa0007------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003088   instruction: 0xa3aa0007------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003088   instruction: 0xa3aa0007------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003088   instruction: 0xa3aa0007------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 1  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000308c   instruction: 0xa3a80009------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000308c   instruction: 0xa3a80009------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000308c   instruction: 0xa3a80009------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000308c   instruction: 0xa3a80009------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 1  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003090   instruction: 0xa3a90008------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003090   instruction: 0xa3a90008------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003090   instruction: 0xa3a90008------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003090   instruction: 0xa3a90008------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 1  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003094   instruction: 0x8fa80000------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003094   instruction: 0x8fa80000------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003094   instruction: 0x8fa80000------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003094   instruction: 0x8fa80000------
+       **state:           4**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003094   instruction: 0x8fa80000------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 01
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003098   instruction: 0xafa8000c------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003098   instruction: 0xafa8000c------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003098   instruction: 0xafa8000c------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003098   instruction: 0xafa8000c------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 1  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000309c   instruction: 0x87a90002------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000309c   instruction: 0x87a90002------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000309c   instruction: 0x87a90002------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000309c   instruction: 0x87a90002------
+       **state:           4**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000309c   instruction: 0x87a90002------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 01
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030a0   instruction: 0xafa90010------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030a0   instruction: 0xafa90010------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030a0   instruction: 0xafa90010------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030a0   instruction: 0xafa90010------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 1  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030a4   instruction: 0x97a90002------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030a4   instruction: 0x97a90002------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030a4   instruction: 0x97a90002------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030a4   instruction: 0x97a90002------
+       **state:           4**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030a4   instruction: 0x97a90002------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 01
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030a8   instruction: 0xafa90014------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030a8   instruction: 0xafa90014------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030a8   instruction: 0xafa90014------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030a8   instruction: 0xafa90014------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 1  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030ac   instruction: 0x83aa0003------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030ac   instruction: 0x83aa0003------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030ac   instruction: 0x83aa0003------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030ac   instruction: 0x83aa0003------
+       **state:           4**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030ac   instruction: 0x83aa0003------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 01
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030b0   instruction: 0xafaa0018------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030b0   instruction: 0xafaa0018------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030b0   instruction: 0xafaa0018------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030b0   instruction: 0xafaa0018------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 1  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030b4   instruction: 0x93aa0003------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030b4   instruction: 0x93aa0003------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030b4   instruction: 0x93aa0003------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030b4   instruction: 0x93aa0003------
+       **state:           4**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030b4   instruction: 0x93aa0003------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 01
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030b8   instruction: 0xafaa001c------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030b8   instruction: 0xafaa001c------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030b8   instruction: 0xafaa001c------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030b8   instruction: 0xafaa001c------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 1  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030bc   instruction: 0x93aa0001------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030bc   instruction: 0x93aa0001------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030bc   instruction: 0x93aa0001------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030bc   instruction: 0x93aa0001------
+       **state:           4**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030bc   instruction: 0x93aa0001------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 01
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030c0   instruction: 0xafaa0020------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030c0   instruction: 0xafaa0020------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030c0   instruction: 0xafaa0020------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030c0   instruction: 0xafaa0020------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 1  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030c4   instruction: 0x201d0040------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030c4   instruction: 0x201d0040------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030c4   instruction: 0x201d0040------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030c4   instruction: 0x201d0040------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030c8   instruction: 0xafa00000------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030c8   instruction: 0xafa00000------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030c8   instruction: 0xafa00000------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030c8   instruction: 0xafa00000------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 1  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030cc   instruction: 0x00081024------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030cc   instruction: 0x00081024------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030cc   instruction: 0x00081024------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 00   ALUOp: 00101   EXTOp: 00
+------currentPC: 0x000030cc   instruction: 0x00081024------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 01   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030d0   instruction: 0x15090001------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030d0   instruction: 0x15090001------
+       **state:           7**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030d4   instruction: 0x15090001------
+       **state:           0**
+PCSource: 01  PCWrite: 0  PCWriteCond: 1
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 00   ALUOp: 01100   EXTOp: 00
+------currentPC: 0x000030d8   instruction: 0x1d000001------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030d8   instruction: 0x1d000001------
+       **state:           7**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030d8   instruction: 0x1d000001------
+       **state:           0**
+PCSource: 01  PCWrite: 0  PCWriteCond: 1
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 00   ALUOp: 01110   EXTOp: 00
+------currentPC: 0x000030dc   instruction: 0x24420001------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030dc   instruction: 0x24420001------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030dc   instruction: 0x24420001------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 01
+------currentPC: 0x000030dc   instruction: 0x24420001------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030e0   instruction: 0x19000001------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030e0   instruction: 0x19000001------
+       **state:           7**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030e4   instruction: 0x19000001------
+       **state:           0**
+PCSource: 01  PCWrite: 0  PCWriteCond: 1
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 00   ALUOp: 01101   EXTOp: 00
+------currentPC: 0x000030e8   instruction: 0x05200001------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030e8   instruction: 0x05200001------
+       **state:           7**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030e8   instruction: 0x05200001------
+       **state:           0**
+PCSource: 01  PCWrite: 0  PCWriteCond: 1
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 00   ALUOp: 01111   EXTOp: 00
+------currentPC: 0x000030ec   instruction: 0x24420001------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030ec   instruction: 0x24420001------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030ec   instruction: 0x24420001------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 01
+------currentPC: 0x000030ec   instruction: 0x24420001------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030f0   instruction: 0x05010001------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030f0   instruction: 0x05010001------
+       **state:           7**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030f0   instruction: 0x05010001------
+       **state:           0**
+PCSource: 01  PCWrite: 0  PCWriteCond: 1
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 00   ALUOp: 10000   EXTOp: 00
+------currentPC: 0x000030f4   instruction: 0x24420001------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030f4   instruction: 0x24420001------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030f4   instruction: 0x24420001------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 01
+------currentPC: 0x000030f4   instruction: 0x24420001------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030f8   instruction: 0x112a0001------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030f8   instruction: 0x112a0001------
+       **state:           7**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030f8   instruction: 0x112a0001------
+       **state:           0**
+PCSource: 01  PCWrite: 0  PCWriteCond: 1
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 00   ALUOp: 00001   EXTOp: 00
+------currentPC: 0x000030fc   instruction: 0x24420001------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030fc   instruction: 0x24420001------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x000030fc   instruction: 0x24420001------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 01
+------currentPC: 0x000030fc   instruction: 0x24420001------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003100   instruction: 0xafa20000------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003100   instruction: 0xafa20000------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003100   instruction: 0xafa20000------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003100   instruction: 0xafa20000------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 1  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003104   instruction: 0x201d0040------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003104   instruction: 0x201d0040------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003104   instruction: 0x201d0040------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003104   instruction: 0x201d0040------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003108   instruction: 0x8fa20000------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003108   instruction: 0x8fa20000------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003108   instruction: 0x8fa20000------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003108   instruction: 0x8fa20000------
+       **state:           4**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003108   instruction: 0x8fa20000------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 01
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000310c   instruction: 0x08000c44------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000310c   instruction: 0x08000c44------
+       **state:           8**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003110   instruction: 0x08000c44------
+       **state:           0**
+PCSource: 10  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003114   instruction: 0x24420001------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003114   instruction: 0x24420001------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003114   instruction: 0x24420001------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 01
+------currentPC: 0x00003114   instruction: 0x24420001------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003118   instruction: 0x0c000c48------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003118   instruction: 0x0c000c48------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003118   instruction: 0x0c000c48------
+       **state:           8**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 10   RegWrite: 1   MemtoReg: 10
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003120   instruction: 0x0c000c48------
+       **state:           0**
+PCSource: 10  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003124   instruction: 0x201d0000------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003124   instruction: 0x201d0000------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003124   instruction: 0x201d0000------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003124   instruction: 0x201d0000------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003128   instruction: 0xafbf0028------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003128   instruction: 0xafbf0028------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003128   instruction: 0xafbf0028------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003128   instruction: 0xafbf0028------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 1  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000312c   instruction: 0x34425500------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000312c   instruction: 0x34425500------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000312c   instruction: 0x34425500------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00110   EXTOp: 00
+------currentPC: 0x0000312c   instruction: 0x34425500------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003130   instruction: 0x20093148------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003130   instruction: 0x20093148------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003130   instruction: 0x20093148------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003130   instruction: 0x20093148------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003134   instruction: 0x0120f809------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003134   instruction: 0x0120f809------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003134   instruction: 0x0120f809------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 01   RegWrite: 1   MemtoReg: 10
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003134   instruction: 0x0120f809------
+       **state:           8**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 00   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003148   instruction: 0x0120f809------
+       **state:           0**
+PCSource: 01  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000314c   instruction: 0x201d0000------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000314c   instruction: 0x201d0000------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000314c   instruction: 0x201d0000------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000314c   instruction: 0x201d0000------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003150   instruction: 0xafbf002c------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003150   instruction: 0xafbf002c------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003150   instruction: 0xafbf002c------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003150   instruction: 0xafbf002c------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 1  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003154   instruction: 0x34420050------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003154   instruction: 0x34420050------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003154   instruction: 0x34420050------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00110   EXTOp: 00
+------currentPC: 0x00003154   instruction: 0x34420050------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003158   instruction: 0x03e00008------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003158   instruction: 0x03e00008------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003158   instruction: 0x03e00008------
+       **state:           8**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 00   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003134   instruction: 0x03e00008------
+       **state:           0**
+PCSource: 01  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003138   instruction: 0x201d0040------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003138   instruction: 0x201d0040------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003138   instruction: 0x201d0040------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003138   instruction: 0x201d0040------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000313c   instruction: 0xafa20000------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000313c   instruction: 0xafa20000------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000313c   instruction: 0xafa20000------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000313c   instruction: 0xafa20000------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 1  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003140   instruction: 0x201d0000------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003140   instruction: 0x201d0000------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003140   instruction: 0x201d0000------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003140   instruction: 0x201d0000------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003144   instruction: 0x8fbf0028------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003144   instruction: 0x8fbf0028------
+       **state:           2**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003144   instruction: 0x8fbf0028------
+       **state:           3**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003144   instruction: 0x8fbf0028------
+       **state:           4**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003144   instruction: 0x8fbf0028------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 1   MemtoReg: 01
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003148   instruction: 0x03e00008------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003148   instruction: 0x03e00008------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003148   instruction: 0x03e00008------
+       **state:           8**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 00   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003118   instruction: 0x03e00008------
+       **state:           0**
+PCSource: 01  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000311c   instruction: 0x00a22821------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000311c   instruction: 0x00a22821------
+       **state:           5**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000311c   instruction: 0x00a22821------
+       **state:           6**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 01   ALUSrcB: 00   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000311c   instruction: 0x00a22821------
+       **state:           0**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 01   RegWrite: 1   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003120   instruction: 0x08000c47------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003120   instruction: 0x08000c47------
+       **state:           8**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000311c   instruction: 0x08000c47------
+       **state:           0**
+PCSource: 10  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003120   instruction: 0x08000c47------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003120   instruction: 0x08000c47------
+       **state:           8**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000311c   instruction: 0x08000c47------
+       **state:           0**
+PCSource: 10  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003120   instruction: 0x08000c47------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003120   instruction: 0x08000c47------
+       **state:           8**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000311c   instruction: 0x08000c47------
+       **state:           0**
+PCSource: 10  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003120   instruction: 0x08000c47------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003120   instruction: 0x08000c47------
+       **state:           8**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000311c   instruction: 0x08000c47------
+       **state:           0**
+PCSource: 10  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003120   instruction: 0x08000c47------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003120   instruction: 0x08000c47------
+       **state:           8**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000311c   instruction: 0x08000c47------
+       **state:           0**
+PCSource: 10  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003120   instruction: 0x08000c47------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003120   instruction: 0x08000c47------
+       **state:           8**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x0000311c   instruction: 0x08000c47------
+       **state:           0**
+PCSource: 10  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 10   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003120   instruction: 0x08000c47------
+       **state:           1**
+PCSource: 00  PCWrite: 1  PCWriteCond: 0
+MemWrite: 0  IRWrite: 1   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 01   ALUOp: 00000   EXTOp: 00
+------currentPC: 0x00003120   instruction: 0x08000c47------
+       **state:           8**
+PCSource: 00  PCWrite: 0  PCWriteCond: 0
+MemWrite: 0  IRWrite: 0   RegDst: 00   RegWrite: 0   MemtoReg: 00
+ALUSrcA: 00   ALUSrcB: 11   ALUOp: 00000   EXTOp: 00

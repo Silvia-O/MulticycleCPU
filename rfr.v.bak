@@ -1,0 +1,19 @@
+
+module rfr(
+  input clk,
+  input [31:0] din,
+  output [31:0] dout
+  );
+  
+  reg[31:0] rfrd_reg;
+  
+  always@(posedge clk)
+  begin
+    rfrd_reg = din;
+  end
+  
+  assign dout = rfrd_reg;
+  
+endmodule
+  
+  
